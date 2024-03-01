@@ -1,0 +1,8 @@
+To update the data on database : 
+
+1. Add the data on codebase
+2. run ' npm i @vercel/postgres ' in your terminal to install the Vercel Postgres SDK
+3. ' npm run seed ' to have some data to work with as you build the dashboard.
+4. push the update code in github which directly update on vercel
+5. Now when you go to database on vercel you can see the added data on table.
+6. Finally you can see the udated content on browser.
